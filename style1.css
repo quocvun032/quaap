@@ -1,0 +1,36 @@
+.outline h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.outline p {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.outline {
+    margin-top: 20%;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: transparent;
+    border-radius: 10px;
+    color: white;
+    padding: 30px 40px;
+    width: 430px;
+    align-content: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body {
+    background: url(310677.jpg);
+}
+
